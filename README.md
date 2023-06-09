@@ -9,6 +9,7 @@ To implement and to verify the truth table in Verilog HDL for the following logi
 6.	 Ex-OR gate
 7.	 Ex-NOR gates 
 
+
 ## Components Required:
 1.	Laptop with Quartus software and modelsim software
 
